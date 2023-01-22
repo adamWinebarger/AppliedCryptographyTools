@@ -1,0 +1,41 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x000\x00A\x00p\x00p\x00l\x00i\x00e\x00d\x00C\x00r\x00y\x00p\x00t\x00o\x00g\x00r\x00a\x00p\x00h\x00y\x00T\x00o\x00o\x00l\x00s)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/adam/projects/AppliedCryptographyTools/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=appliedcryptographytools
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x000\x00A\x00p\x00p\x00l\x00i\x00e\x00d\x00C\x00r\x00y\x00p\x00t\x00o\x00g\x00r\x00a\x00p\x00h\x00y\x00T\x00o\x00o\x00l\x00s\x00\x00\x000\x00a\x00p\x00p\x00l\x00i\x00e\x00d\x00c\x00r\x00y\x00p\x00t\x00o\x00g\x00r\x00a\x00p\x00h\x00y\x00t\x00o\x00o\x00l\x00s)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/adam/projects/AppliedCryptographyTools
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Kill Before Executing Again=4194304
+Project Target=AppliedCryptographyTools,appliedcryptographytools
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=
