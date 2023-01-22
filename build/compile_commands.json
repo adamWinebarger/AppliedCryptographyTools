@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adam/projects/AppliedCryptographyTools/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/appliedcryptographytools.dir/main.cpp.o -c /home/adam/projects/AppliedCryptographyTools/main.cpp",
+  "file": "/home/adam/projects/AppliedCryptographyTools/main.cpp"
+}
+]
